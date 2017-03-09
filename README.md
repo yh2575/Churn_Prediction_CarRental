@@ -1,2 +1,23 @@
 # Churn_Prediction
-Churn Prediction for a car rental company. Machine learning techniques include logistic regression and decision trees
+## Objective
+A ride-sharing company is interested in predicting rider retention. 
+
+## Data
+data contains users who signed up for an account in January 
+
+## EDA
+
+## Data Cleaning 
+
+## Modeling 
+
+
+## Validation 
+
+
+## Feature selection and hyperparameter tuning 
+
+
+## Results 
+
+## Suggestions 
